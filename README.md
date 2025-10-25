@@ -138,11 +138,11 @@ The app allows users to upload .pdf or .txt files, automatically extract the tex
 Below are screenshots of the deployed legal summarizer dashboard built using Streamlit:
 
 ### 🏠 Main Dashboard
-![Streamlit Dashboard](C:\Users\91739\OneDrive\Desktop\CAPSTONE\images\dashboard.png)
+![Streamlit Dashboard](images/dashboard.png)
 
 ### 📄 Example PDF Summary Output
-![PDF Summary Output](C:\Users\91739\OneDrive\Desktop\CAPSTONE\images\sample_image1.png)
-![PDF Summary Output](C:\Users\91739\OneDrive\Desktop\CAPSTONE\images\sample_image2.png)
+![PDF Summary Output](images/sample_image1.png)
+![PDF Summary Output](images/sample_image2.png)
 
 The interface allows users to upload `.pdf` or `.txt` files, automatically extract text, and generate a simplified summary using the best-performing abstractive model (`bart-small` fine-tuned on legal text).
 
