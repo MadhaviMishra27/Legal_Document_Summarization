@@ -141,6 +141,7 @@ Below are screenshots of the deployed legal summarizer dashboard built using Str
 
 ### 📄 Example PDF Summary Output
 ![PDF Summary Output](images/sample_image1.png)
+
 ![PDF Summary Output](images/sample_image2.png)
 
 The interface allows users to upload `.pdf` or `.txt` files, automatically extract text, and generate a simplified summary using the best-performing abstractive model (`bart-small` fine-tuned on legal text).
