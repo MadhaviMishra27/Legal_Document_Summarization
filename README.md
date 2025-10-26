@@ -108,7 +108,6 @@ CAPSTONE/
 
 ## 🧰 Installation
 
-```bash
 git clone https://github.com/your-username/Capstone_Project.git
 cd Capstone_Project
 
