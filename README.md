@@ -108,8 +108,7 @@ CAPSTONE/
 
 ## 🧰 Installation
 
-git clone https://github.com/your-username/Capstone_Project.git
-cd Capstone_Project
+git clone https://github.com/MadhaviMishra27/Legal_Document_Summarization.git
 
 ## Sample Output
 
