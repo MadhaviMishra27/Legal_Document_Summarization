@@ -1,3 +1,4 @@
+# Step 2
 import os
 import re
 from bs4 import BeautifulSoup
